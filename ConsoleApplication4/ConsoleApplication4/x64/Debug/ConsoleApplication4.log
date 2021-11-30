@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\ilyab\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(54): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\ilyab\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(43): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\ilyab\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : temp
+C:\Users\ilyab\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(72): warning C4172: возвращение адреса локальной или временной переменной : temp
+  ConsoleApplication4.vcxproj -> C:\Users\ilyab\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
